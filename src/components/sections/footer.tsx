@@ -69,7 +69,7 @@ export function Footer() {
             <ul className="mt-4 space-y-3 text-sm text-white/70">
               <li>
                 <a
-                  href="https://wa.me/5511999999999"
+                  href="https://wa.me/5538998617565"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-white"
@@ -84,7 +84,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4" />
-                São Paulo, SP
+                Lassance - MG
               </li>
             </ul>
           </div>
